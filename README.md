@@ -1,4 +1,2 @@
-war3-parsecarsh
+Warcraft3 崩溃文件解析
 ===============
-
-war3-parsecarsh
